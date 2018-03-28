@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Otter1J" size="12.000000 16.000000" />
+    <ImageTarget name="Judy1J" size="12.000000 16.000000" />
+    <ImageTarget name="swanfave" size="15.000000 8.146153" />
+    <ImageTarget name="catTrack" size="15.000000 19.578947" />
+    <ImageTarget name="sheep" size="15.000000 14.268018" />
+    <ImageTarget name="barn5" size="15.000000 13.020528" />
+    <ImageTarget name="barn1" size="15.000000 14.897959" />
+    <ImageTarget name="duckSwanTrack" size="20.000000 6.338098" />
+    <ImageTarget name="wavesTrack" size="15.000000 6.769125" />
+    <ImageTarget name="pondmany" size="15.000000 10.617578" />
+    <ImageTarget name="1ducktrack" size="15.000000 12.882704" />
+    <ImageTarget name="duckTrack" size="15.000000 8.234494" />
+  </Tracking>
+</QCARConfig>
